@@ -1,0 +1,15 @@
+D:\work001\Exampile_03\bin\Debug\net6.0\Exampile_03.exe
+D:\work001\Exampile_03\bin\Debug\net6.0\Exampile_03.deps.json
+D:\work001\Exampile_03\bin\Debug\net6.0\Exampile_03.runtimeconfig.json
+D:\work001\Exampile_03\bin\Debug\net6.0\Exampile_03.dll
+D:\work001\Exampile_03\bin\Debug\net6.0\Exampile_03.pdb
+D:\work001\Exampile_03\obj\Debug\net6.0\Exampile_03.csproj.AssemblyReference.cache
+D:\work001\Exampile_03\obj\Debug\net6.0\Exampile_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\work001\Exampile_03\obj\Debug\net6.0\Exampile_03.AssemblyInfoInputs.cache
+D:\work001\Exampile_03\obj\Debug\net6.0\Exampile_03.AssemblyInfo.cs
+D:\work001\Exampile_03\obj\Debug\net6.0\Exampile_03.csproj.CoreCompileInputs.cache
+D:\work001\Exampile_03\obj\Debug\net6.0\Exampile_03.dll
+D:\work001\Exampile_03\obj\Debug\net6.0\refint\Exampile_03.dll
+D:\work001\Exampile_03\obj\Debug\net6.0\Exampile_03.pdb
+D:\work001\Exampile_03\obj\Debug\net6.0\Exampile_03.genruntimeconfig.cache
+D:\work001\Exampile_03\obj\Debug\net6.0\ref\Exampile_03.dll
